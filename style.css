@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+#container {
+    display: inline-flex;
+    color: white;
+}
+
+h2, h1 {
+    color: white;
+}
